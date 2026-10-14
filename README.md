@@ -2,18 +2,14 @@
 
 <div align="center">
 
-<a href="https://sayalikurhe05.github.io/mermaid-ocean-adventure/">
-  <img src="mermaid_ocean_top.gif" width="100%" alt="Mermaid Ocean Adventure" />
-</a>
+<img src="mermaid_ocean_realistic.gif" width="100%" alt="A mermaid swimming through a magical underwater ocean" />
 
 ### 🌊 Dive Into the Deep Blue
 
-Collect glowing pearls, dodge sea urchins, and explore an enchanting underwater world.
+*Glowing pearls, colorful fish, coral reefs, and a magical underwater world.*
 
-<a href="https://sayalikurhe05.github.io/mermaid-ocean-adventure/">
-  <img src="https://img.shields.io/badge/▶%20PLAY%20THE%20GAME-087EAD?style=for-the-badge&logoColor=white" alt="Play Mermaid Ocean Adventure" />
-</a>
+[**Play the interactive game →**](https://sayalikurhe05.github.io/mermaid-ocean-adventure/)
 
-*Built with HTML, CSS and JavaScript*
+<sub>Built with HTML, CSS and JavaScript</sub>
 
 </div>
