@@ -1,24 +1,19 @@
-# Mermaid Ocean Adventure
+## 🧜‍♀️ Mermaid Ocean Adventure
 
-A tiny browser game made with HTML, CSS, and JavaScript. No frameworks or build step required.
+<div align="center">
 
-## Play locally
-Open `index.html` in a browser.
+<a href="https://sayalikurhe05.github.io/mermaid-ocean-adventure/">
+  <img src="mermaid_ocean_top.gif" width="100%" alt="Mermaid Ocean Adventure" />
+</a>
 
-## Controls
-- Arrow keys or WASD to swim
-- On touch screens, use the direction buttons
-- Collect glowing pearls and avoid sea urchins
-- Pause/resume with the Pause button or Space
+### 🌊 Dive Into the Deep Blue
 
-## Deploy on GitHub Pages
-1. Create a new public repository, for example `mermaid-ocean-adventure`.
-2. Upload `index.html` (and this README if desired) to the repository root.
-3. Open **Settings → Pages**.
-4. Under **Build and deployment**, choose **Deploy from a branch**.
-5. Select branch **main** and folder **/(root)**, then save.
-6. Wait for GitHub Pages to publish. The URL will usually be:
-   `https://sayalikurhe05.github.io/mermaid-ocean-adventure/`
+Collect glowing pearls, dodge sea urchins, and explore an enchanting underwater world.
 
-Then add a link in your profile README:
-`[🧜‍♀️ Play Mermaid Ocean Adventure](https://sayalikurhe05.github.io/mermaid-ocean-adventure/)`
+<a href="https://sayalikurhe05.github.io/mermaid-ocean-adventure/">
+  <img src="https://img.shields.io/badge/▶%20PLAY%20THE%20GAME-087EAD?style=for-the-badge&logoColor=white" alt="Play Mermaid Ocean Adventure" />
+</a>
+
+*Built with HTML, CSS and JavaScript*
+
+</div>
